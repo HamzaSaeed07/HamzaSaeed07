@@ -42,7 +42,6 @@ Available for Odoo development, ERP customization, and system integration projec
 
 ### 📫 Get in Touch
 📧 hamzasaeed.dev@gmail.com · 📱 +92 321 6760154
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzasaeed07/)
 
 ---
 <p align="center"><i>⭐️ Portfolio and repos below — always reflects my current, active work.</i></p>
